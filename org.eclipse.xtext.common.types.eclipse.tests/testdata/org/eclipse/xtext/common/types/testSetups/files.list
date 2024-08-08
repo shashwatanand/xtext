@@ -47,3 +47,4 @@ SubOfGenericClass.java.txt
 AnnotatedInterfaceWithStringDefault.java.txt
 Bug347739ThreeTypeParamsSuper.java.txt
 NestedTypes.java.txt
+TestRecord.java.txt
